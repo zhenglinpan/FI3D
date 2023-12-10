@@ -1,5 +1,12 @@
 # FI3D: Revisiting Frechet Inception Distance for 3D Human Motion Generation
 
+<p align="center">
+  <img src="https://github.com/zhenglinpan/FI3D/blob/master/assets/page.png">
+</p>
+<p align="center">
+  <img src="https://github.com/zhenglinpan/FI3D/blob/master/assets/exp.png">
+</p>
+
 Welcome to the FI3D repository!
 
 Our project aims to enhance the evaluation of 3D human motion generation models. Traditional methods like Frechet Inception Distance (FID) assume Gaussian data distribution, which often leads to inaccurate results. 
