@@ -13,7 +13,7 @@
 
 Our project aims to enhance the evaluation of 3D human motion generation models. Traditional methods like Frechet Inception Distance (FID) assume Gaussian data distribution, which often leads to inaccurate results. 
 
-**Authors**: Zhenglin Pan¹, Mahyar Karami¹, Alireza Vosoughi Rad¹
+**Authors**: [Zhenglin Pan¹](https://github.com/zhenglinpan), [Mahyar Karami¹](https://github.com/alivosoughi), [Alireza Vosoughi Rad¹](https://github.com/Mahyar-Karami)
 
 **Affiliation**: University of Alberta
 
